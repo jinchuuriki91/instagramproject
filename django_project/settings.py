@@ -58,9 +58,9 @@ WSGI_APPLICATION = 'django_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'instagramproject',
+        'NAME': 'django',
         'USER': 'django',
-        'PASSWORD': 'testqwe',
+        'PASSWORD': 'fUg92bhxt4',
         'HOST': 'localhost',
         'PORT': '',
     }
